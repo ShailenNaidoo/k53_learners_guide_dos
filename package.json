@@ -1,0 +1,11 @@
+{
+  "name": "k53_learners_guide_docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShailenNaidoo/k53_learners_guide_docs.git",
+  "author": "Shailen <naidooshailen648@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
