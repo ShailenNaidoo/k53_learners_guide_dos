@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /icon.png
+heroImage: /logo.png
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /introduction/
 footer: 
 ---
