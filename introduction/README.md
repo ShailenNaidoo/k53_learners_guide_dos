@@ -6,7 +6,7 @@ meta:
     content: Want to contribute to the K53 Guide PWA? Yes, you can definitely do that by reading this documentation.
 ---
 
-# Introduction
+# Introduction 👀
 
 Hi there :wave:
 
